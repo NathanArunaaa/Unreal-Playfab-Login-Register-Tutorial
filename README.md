@@ -1,6 +1,5 @@
-### Hi there, I'm Nathan Aruna - aka [trulyNathan][website] 👋
+### Hi there, I'm Nathan Aruna - aka [trulyNathan]
 
-[![Website](https://trulydigital.000webhostapp.com/)
 
 ## I'm a GameDev, Student, and Programmer!!
 
@@ -9,6 +8,7 @@
 - 👯 I’m looking to collaborate with developers 
 - 🥅 2021 Goals: Publish first game to steam
 - ⚡ Fun fact: I play the violin and love all genres of music
+- My website -> https://trulydigital.000webhostapp.com/
 
 <details>
   <summary>:zap:Scocials</summary>
