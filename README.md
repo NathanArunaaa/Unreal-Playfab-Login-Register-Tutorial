@@ -1,7 +1,6 @@
 ### Hi there, I'm Nathan Aruna - aka [trulyNathan][website] 👋
 
 [![Website](https://trulydigital.000webhostapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a GameDev, Student, and Programmer!!
 
