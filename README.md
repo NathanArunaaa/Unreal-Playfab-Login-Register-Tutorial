@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with developers.
 - 🥅 2022 Goals: Publish first game to steam.
 - ⚡ Fun fact: I play the violin and love all genres of music.
-- 🌊My website -> https://trulydigital.000webhostapp.com/🕸️
+- 🌊My website -> https://trulydigital.000webhostapp.com 🕸️
 
 <details>
   <summary>:zap:Scocials</summary>
