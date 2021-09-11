@@ -19,9 +19,7 @@
 3. 🗣Instagram -> https://www.instagram.com/nathan.aruna/
 
 <!--END_SECTION:activity-->
-```
-  You can download the Word document to get interactive links.
-```
+
 
 </details>
 
@@ -42,6 +40,9 @@
 
 
  </details>
+ ```
+  You can download the Word document to get interactive links.
+```
 
 
 ![Screenshot 2021-08-30 184628](https://user-images.githubusercontent.com/88948653/131441589-754f80cf-c3d6-45ad-a42c-5216884ecb7a.png)
