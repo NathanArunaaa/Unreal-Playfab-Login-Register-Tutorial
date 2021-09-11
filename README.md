@@ -1,5 +1,6 @@
+ ```
 ### Hi there, I'm Nathan Aruna - aka [trulyNathan]
-
+ ```
 
 ## I'm a GameDev, Student, and Programmer!!
 
