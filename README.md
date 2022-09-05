@@ -1,25 +1,4 @@
-### Hi there, I'm Nathan Aruna - aka [trulyNathan]
 
-
-## I'm a GameDev, Student, and Programmer!!
-<details>
-  <summary>:zap:Scocials</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Discord server -> https://discord.gg/4tTrHN7S
-2. 🎤 Discord username ->trύlyNάthάñ#1001
-3. 🗣Instagram -> https://www.instagram.com/nathan.aruna/
-
-<!--END_SECTION:activity-->
-
-
-</details>
-
-
- </details>
-
-<br />
-<br />
 
 ---
  ```
@@ -29,12 +8,6 @@
 
 
 
-<!--END_SECTION:activity-->
-
-</details>
-
-
- </details>
 
 
 
